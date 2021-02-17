@@ -1,6 +1,6 @@
 # Blog Flutter Markdown source
 
-Simple static blog with Flutter using MD files.
+Simple static blog in Flutter using MD files.
 
 ## Approaches and additional information
 - I decided to use the Clean-dart/clean-architecture on this project for training. There are still some things that can be improved.
