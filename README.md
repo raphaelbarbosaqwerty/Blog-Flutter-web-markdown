@@ -49,6 +49,7 @@ flutter build web
 - Put your file in `assets/markdown_posts/` example: `assets/markdown_posts/about/0-about.md`.
 - Please use the default structure for everything works, check in the example: `assets/markdown_posts/about/0-about.md`.
 - For each new post, you put in the `assets/markdown_posts/` you need to build a new version, with `flutter build web`.
-
+### Post structure
+- Example of the post structure [click-here](https://raw.githubusercontent.com/raphaelbarbosaqwerty/Blog-Flutter-web-markdown/main/blog_flutter_fluro_template/assets/markdown_posts/about/0-about.md)  
 ### Images
 <img src="https://raw.githubusercontent.com/raphaelbarbosaqwerty/Blog-Flutter-web-markdown/main/images/example-one.png"> <img src="https://raw.githubusercontent.com/raphaelbarbosaqwerty/Blog-Flutter-web-markdown/main/images/example-two.png">
