@@ -51,5 +51,17 @@ flutter build web
 - For each new post, you put in the `assets/markdown_posts/` you need to build a new version, with `flutter build web`.
 ### Post structure
 - Example of the post structure [click-here](https://raw.githubusercontent.com/raphaelbarbosaqwerty/Blog-Flutter-web-markdown/main/blog_flutter_fluro_template/assets/markdown_posts/about/0-about.md)  
+
+### Post names
+- For convetion is good to use for example:
+```
+0-welcome.md
+1-about.md
+2-something.md
+3-other.md
+..
+99-amazing-information.md
+```
+- Because the list of posts is ordered using the numbers.  
 ### Images
 <img src="https://raw.githubusercontent.com/raphaelbarbosaqwerty/Blog-Flutter-web-markdown/main/images/example-one.png"> <img src="https://raw.githubusercontent.com/raphaelbarbosaqwerty/Blog-Flutter-web-markdown/main/images/example-two.png">
