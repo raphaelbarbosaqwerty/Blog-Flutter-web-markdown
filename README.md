@@ -51,3 +51,4 @@ flutter build web
 - For each new post, you put in the `assets/markdown_posts/` you need to build a new version, with `flutter build web`.
 
 ### Images
+<img src="https://raw.githubusercontent.com/raphaelbarbosaqwerty/Blog-Flutter-web-markdown/main/images/example-one.png"> <img src="https://raw.githubusercontent.com/raphaelbarbosaqwerty/Blog-Flutter-web-markdown/main/images/example-two.png">
