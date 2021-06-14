@@ -1,6 +1,10 @@
 # Blog Flutter Markdown source
 
 Simple static blog in Flutter using MD files.
+
+## Important Observations
+- This code will be refactored in the future.  
+ 
 ## Live example 
 - Check the blog running this code
 - https://cosmicshell.dev/#/home
